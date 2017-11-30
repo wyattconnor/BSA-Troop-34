@@ -1,0 +1,56 @@
+body{
+background-color: tan;
+}
+
+h2{
+  font-size: 50px;
+  text-align: center;
+  color: crimson;
+}
+
+p{
+  font-size: 23px;
+  text-align: center;
+  color: white;
+}
+
+a{
+  font-size: 23px;
+  text-align: center;
+}
+
+nav{
+  text-align:center;
+  padding-bottom:0px;
+}
+nav ul{
+  margin: 0;
+  padding: 0;
+  list-style:none;
+  background-color:#d9d7d6;
+}
+nav li {
+  display:inline-block;
+  margin-left:50px;
+  Padding-top:15px;
+  Padding-bottom:7px;
+  position: relative;
+}
+nav a {
+  color:#6f79ff;
+text-decoration:none;
+text-transform:uppercase;
+  font-size:14px;
+}
+nav a:hover {
+  color:#808080;
+}
+
+h3 {
+	color: #3366cc;
+	text-align: center;
+	font-size: 36px;
+}
+.Links{
+text-align: center;	
+}
